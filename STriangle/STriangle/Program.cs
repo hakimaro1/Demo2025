@@ -25,7 +25,7 @@ class Program
                                  (semiperimeter - side) * (semiperimeter - side));
 
         // Вывод результатов в виде таблицы
-        Console.WriteLine();
+       
         Console.WriteLine("+---------------------------+");
         Console.WriteLine("+   Сторона   |   Площадь   +");
         Console.WriteLine("+                           +");

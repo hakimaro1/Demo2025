@@ -26,3 +26,4 @@ E:\Demo2025\Lab1\STriangle\STriangle\bin\Debug\net8.0\STriangle.dll
 E:\Demo2025\Lab1\STriangle\STriangle\bin\Debug\net8.0\STriangle.pdb
 E:\Demo2025\Lab1\STriangle\STriangle\obj\Debug\net8.0\STriangle.genruntimeconfig.cache
 E:\Demo2025\Lab1\STriangle\STriangle\obj\Debug\net8.0\ref\STriangle.dll
+E:\Demo2025\STriangle\STriangle\obj\Debug\net8.0\STriangle.sourcelink.json

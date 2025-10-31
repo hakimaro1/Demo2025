@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj": {}
+    "E:\\Demo2025\\STriangle\\STriangle\\STriangle.csproj": {}
   },
   "projects": {
-    "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj": {
+    "E:\\Demo2025\\STriangle\\STriangle\\STriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj",
+        "projectUniqueName": "E:\\Demo2025\\STriangle\\STriangle\\STriangle.csproj",
         "projectName": "STriangle",
-        "projectPath": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj",
+        "projectPath": "E:\\Demo2025\\STriangle\\STriangle\\STriangle.csproj",
         "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\obj\\",
+        "outputPath": "E:\\Demo2025\\STriangle\\STriangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
