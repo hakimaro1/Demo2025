@@ -1,0 +1,7 @@
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB3\SOLUTION\BankAccount\bin\Release\BankAccount.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB3\SOLUTION\BankAccount\bin\Release\BankAccount.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB3\SOLUTION\BankAccount\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB3\SOLUTION\BankAccount\obj\Release\BankAccount.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB3\SOLUTION\BankAccount\obj\Release\BankAccount.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab03\SOLUTION\BankAccount\obj\Release\BankAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab03\SOLUTION\BankAccount\obj\Release\BankAccount.pdb
