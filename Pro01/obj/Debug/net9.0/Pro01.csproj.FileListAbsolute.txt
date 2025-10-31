@@ -1,0 +1,14 @@
+E:\Demo2025\Pro01\bin\Debug\net9.0\Pro01.exe
+E:\Demo2025\Pro01\bin\Debug\net9.0\Pro01.deps.json
+E:\Demo2025\Pro01\bin\Debug\net9.0\Pro01.runtimeconfig.json
+E:\Demo2025\Pro01\bin\Debug\net9.0\Pro01.dll
+E:\Demo2025\Pro01\bin\Debug\net9.0\Pro01.pdb
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.AssemblyInfoInputs.cache
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.AssemblyInfo.cs
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.csproj.CoreCompileInputs.cache
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.dll
+E:\Demo2025\Pro01\obj\Debug\net9.0\refint\Pro01.dll
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.pdb
+E:\Demo2025\Pro01\obj\Debug\net9.0\Pro01.genruntimeconfig.cache
+E:\Demo2025\Pro01\obj\Debug\net9.0\ref\Pro01.dll
