@@ -1,0 +1,15 @@
+E:\Demo2025\Distance\Distance\bin\Debug\net8.0\Distance.exe
+E:\Demo2025\Distance\Distance\bin\Debug\net8.0\Distance.deps.json
+E:\Demo2025\Distance\Distance\bin\Debug\net8.0\Distance.runtimeconfig.json
+E:\Demo2025\Distance\Distance\bin\Debug\net8.0\Distance.dll
+E:\Demo2025\Distance\Distance\bin\Debug\net8.0\Distance.pdb
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.AssemblyInfoInputs.cache
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.AssemblyInfo.cs
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.csproj.CoreCompileInputs.cache
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.sourcelink.json
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.dll
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\refint\Distance.dll
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.pdb
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\Distance.genruntimeconfig.cache
+E:\Demo2025\Distance\Distance\obj\Debug\net8.0\ref\Distance.dll
