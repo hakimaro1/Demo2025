@@ -1,0 +1,15 @@
+E:\Demo2025\Lab1ex4\Lab1ex4\bin\Debug\net8.0\Lab1ex4.exe
+E:\Demo2025\Lab1ex4\Lab1ex4\bin\Debug\net8.0\Lab1ex4.deps.json
+E:\Demo2025\Lab1ex4\Lab1ex4\bin\Debug\net8.0\Lab1ex4.runtimeconfig.json
+E:\Demo2025\Lab1ex4\Lab1ex4\bin\Debug\net8.0\Lab1ex4.dll
+E:\Demo2025\Lab1ex4\Lab1ex4\bin\Debug\net8.0\Lab1ex4.pdb
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.AssemblyInfoInputs.cache
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.AssemblyInfo.cs
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.csproj.CoreCompileInputs.cache
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.sourcelink.json
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.dll
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\refint\Lab1ex4.dll
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.pdb
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\Lab1ex4.genruntimeconfig.cache
+E:\Demo2025\Lab1ex4\Lab1ex4\obj\Debug\net8.0\ref\Lab1ex4.dll
