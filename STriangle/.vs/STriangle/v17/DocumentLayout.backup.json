@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Demo2025\\Lab1\\STriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270F0DB6-2769-4C05-AD02-C23C45EE8050}|STriangle\\STriangle.csproj|e:\\demo2025\\lab1\\striangle\\striangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270F0DB6-2769-4C05-AD02-C23C45EE8050}|STriangle\\STriangle.csproj|solutionrelative:striangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270F0DB6-2769-4C05-AD02-C23C45EE8050}|STriangle\\STriangle.csproj|e:\\demo2025\\lab1\\striangle\\striangle\\striangle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{270F0DB6-2769-4C05-AD02-C23C45EE8050}|STriangle\\STriangle.csproj|solutionrelative:striangle\\striangle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STriangle",
+              "DocumentMoniker": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj",
+              "RelativeDocumentMoniker": "STriangle\\STriangle.csproj",
+              "ToolTip": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\STriangle.csproj",
+              "RelativeToolTip": "STriangle\\STriangle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T07:12:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\Program.cs",
+              "RelativeDocumentMoniker": "STriangle\\Program.cs",
+              "ToolTip": "E:\\Demo2025\\Lab1\\STriangle\\STriangle\\Program.cs*",
+              "RelativeToolTip": "STriangle\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:11:00.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
