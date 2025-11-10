@@ -1,0 +1,8 @@
+E:\training\TriangleLab7\TriangleLab7\obj\Debug\TriangleLab7.csproj.AssemblyReference.cache
+E:\training\TriangleLab7\TriangleLab7\obj\Debug\TriangleLab7.csproj.CoreCompileInputs.cache
+E:\training\TriangleLab7\TriangleLab7\bin\Debug\TriangleLab7.exe.config
+E:\training\TriangleLab7\TriangleLab7\bin\Debug\TriangleLab7.exe
+E:\training\TriangleLab7\TriangleLab7\bin\Debug\TriangleLab7.pdb
+E:\training\TriangleLab7\TriangleLab7\obj\Debug\TriangleLab7.exe
+E:\training\TriangleLab7\TriangleLab7\obj\Debug\TriangleLab7.pdb
+E:\training\TriangleLab7\TriangleLab7\obj\Debug\TriangleLab7.exe.config
