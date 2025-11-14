@@ -1,0 +1,8 @@
+E:\training\Gs\Gs\obj\Debug\Gs.csproj.AssemblyReference.cache
+E:\training\Gs\Gs\obj\Debug\Gs.csproj.CoreCompileInputs.cache
+E:\training\Gs\Gs\bin\Debug\Gs.exe.config
+E:\training\Gs\Gs\bin\Debug\Gs.exe
+E:\training\Gs\Gs\bin\Debug\Gs.pdb
+E:\training\Gs\Gs\obj\Debug\Gs.exe
+E:\training\Gs\Gs\obj\Debug\Gs.pdb
+E:\training\Gs\Gs\obj\Debug\Gs.exe.config
