@@ -10,11 +10,26 @@ public interface IRotatable
     void Rotate(double angle);
 }
 
-// Базовый класс для всех фигур
+// Базовый класс для всех фигур с общим поведением
 public abstract class Shape
 {
+    protected Shape(string name)
+    {
+        Name = name ?? throw new ArgumentNullException(nameof(name));
+    }
+
+    public string Name { get; }
+
     public abstract double GetPerimeter();
     public abstract double GetArea();
+
+    // Общее поведение: печать информации о фигуре
+    public virtual void PrintInfo()
+    {
+        Console.WriteLine($"\n{Name}:");
+        Console.WriteLine($"Периметр = {GetPerimeter():F2}");
+        Console.WriteLine($"Площадь = {GetArea():F2}");
+    }
 }
 
 // Класс окружности
@@ -22,7 +37,7 @@ public class Circle : Shape
 {
     private double radius;
 
-    public Circle(double radius)
+    public Circle(double radius) : base("Окружность")
     {
         if (radius <= 0)
             throw new ArgumentException("Радиус должен быть положительным числом.");
@@ -33,6 +48,12 @@ public class Circle : Shape
 
     public override double GetPerimeter() => 2 * Math.PI * radius;
     public override double GetArea() => Math.PI * radius * radius;
+
+    public override void PrintInfo()
+    {
+        Console.WriteLine($"\n{Name}: радиус = {radius:F2}");
+        base.PrintInfo();
+    }
 }
 
 // Класс квадрата
@@ -40,7 +61,7 @@ public class Square : Shape, IRotatable
 {
     private double side;
 
-    public Square(double side)
+    public Square(double side) : base("Квадрат")
     {
         if (side <= 0)
             throw new ArgumentException("Сторона квадрата должна быть положительным числом.");
@@ -51,6 +72,12 @@ public class Square : Shape, IRotatable
 
     public override double GetPerimeter() => 4 * side;
     public override double GetArea() => side * side;
+
+    public override void PrintInfo()
+    {
+        Console.WriteLine($"\n{Name}: сторона = {side:F2}");
+        base.PrintInfo();
+    }
 
     public void Rotate(double angle)
     {
@@ -63,7 +90,7 @@ public class Triangle : Shape, IRotatable
 {
     private double a, b, c;
 
-    public Triangle(double a, double b, double c)
+    public Triangle(double a, double b, double c) : base("Треугольник")
     {
         if (a <= 0 || b <= 0 || c <= 0)
             throw new ArgumentException("Длины сторон треугольника должны быть положительными числами.");
@@ -92,6 +119,12 @@ public class Triangle : Shape, IRotatable
     {
         double p = GetPerimeter() / 2;
         return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+    }
+
+    public override void PrintInfo()
+    {
+        Console.WriteLine($"\n{Name}: стороны a={a:F2}, b={b:F2}, c={c:F2}");
+        base.PrintInfo();
     }
 
     public void Rotate(double angle)
@@ -191,17 +224,9 @@ namespace Lab9Class
 
             // Выводим информацию о фигурах
             Console.WriteLine("\n=== Результаты расчётов ===");
-            Console.WriteLine($"Окружность: радиус = {circle.GetRadius():F2}");
-            Console.WriteLine($"Периметр (длина окружности) = {circle.GetPerimeter():F2}");
-            Console.WriteLine($"Площадь = {circle.GetArea():F2}");
-
-            Console.WriteLine($"\nКвадрат: сторона = {square.GetSide():F2}");
-            Console.WriteLine($"Периметр = {square.GetPerimeter():F2}");
-            Console.WriteLine($"Площадь = {square.GetArea():F2}");
-
-            Console.WriteLine($"\nТреугольник: стороны a={triangle.GetA():F2}, b={triangle.GetB():F2}, c={triangle.GetC():F2}");
-            Console.WriteLine($"Периметр = {triangle.GetPerimeter():F2}");
-            Console.WriteLine($"Площадь = {triangle.GetArea():F2}");
+            circle.PrintInfo();
+            square.PrintInfo();
+            triangle.PrintInfo();
 
             // Вращаем фигуры
             Console.Write("\nВведите угол поворота квадрата (в градусах): ");

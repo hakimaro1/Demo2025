@@ -5,3 +5,4 @@ E:\training\Shape\Shape\bin\Debug\Shape.exe
 E:\training\Shape\Shape\bin\Debug\Shape.pdb
 E:\training\Shape\Shape\obj\Debug\Shape.exe
 E:\training\Shape\Shape\obj\Debug\Shape.pdb
+E:\training\Shape\Shape\obj\Debug\Shape.exe.config
