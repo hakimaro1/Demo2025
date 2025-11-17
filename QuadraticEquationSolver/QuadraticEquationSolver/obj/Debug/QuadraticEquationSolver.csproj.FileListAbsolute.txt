@@ -1,0 +1,7 @@
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.AssemblyReference.cache
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
