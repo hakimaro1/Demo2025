@@ -1,0 +1,8 @@
+E:\training\DistanceLab11\DistanceLab11\obj\Debug\DistanceLab11.csproj.AssemblyReference.cache
+E:\training\DistanceLab11\DistanceLab11\obj\Debug\DistanceLab11.csproj.CoreCompileInputs.cache
+E:\training\DistanceLab11\DistanceLab11\bin\Debug\DistanceLab11.exe.config
+E:\training\DistanceLab11\DistanceLab11\bin\Debug\DistanceLab11.exe
+E:\training\DistanceLab11\DistanceLab11\bin\Debug\DistanceLab11.pdb
+E:\training\DistanceLab11\DistanceLab11\obj\Debug\DistanceLab11.exe
+E:\training\DistanceLab11\DistanceLab11\obj\Debug\DistanceLab11.pdb
+E:\training\DistanceLab11\DistanceLab11\obj\Debug\DistanceLab11.exe.config
