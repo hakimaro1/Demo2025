@@ -1,42 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QuadraticEquationSolver
 {
-  
     public static class QuadraticSolver
     {
-     
-        public static (int, double[]) Solve(double a, double b, double c)
+        public static (int rootCount, double? x1, double? x2) Solve(double a, double b, double c)
         {
-            // Проверяем, что a не равно нулю
             if (a == 0)
                 throw new ArgumentException("Коэффициент a не может быть равен нулю (уравнение не квадратное)");
 
-            // Вычисляем дискриминант
             double discriminant = b * b - 4 * a * c;
 
             if (discriminant < 0)
             {
-                // Нет действительных корней
-                return (0, Array.Empty<double>());
+                return (0, null, null);
             }
             else if (discriminant == 0)
             {
-                // Один корень (два совпадающих)
                 double x = -b / (2 * a);
-                return (1, new double[] { x });
+                return (1, x, null);
             }
             else
             {
-                // Два различных корня
                 double sqrtD = Math.Sqrt(discriminant);
                 double x1 = (-b - sqrtD) / (2 * a);
                 double x2 = (-b + sqrtD) / (2 * a);
-                return (2, new double[] { x1, x2 });
+                return (2, x1, x2);
             }
         }
     }
@@ -50,7 +39,6 @@ namespace QuadraticEquationSolver
 
             try
             {
-                // Ввод коэффициентов
                 Console.Write("Введите коэффициент a: ");
                 double a = double.Parse(Console.ReadLine());
 
@@ -60,10 +48,8 @@ namespace QuadraticEquationSolver
                 Console.Write("Введите коэффициент c: ");
                 double c = double.Parse(Console.ReadLine());
 
-                // Решение уравнения
-                var (rootCount, roots) = QuadraticSolver.Solve(a, b, c);
+                var (rootCount, x1, x2) = QuadraticSolver.Solve(a, b, c);
 
-                // Вывод результата
                 Console.WriteLine("\nРезультат:");
                 Console.WriteLine($"Уравнение: {a}x² + {b}x + {c} = 0");
 
@@ -73,11 +59,11 @@ namespace QuadraticEquationSolver
                 }
                 else if (rootCount == 1)
                 {
-                    Console.WriteLine($"Один корень: x = {roots[0]:F6}");
+                    Console.WriteLine($"Один корень: x = {x1:F6}");
                 }
-                else // rootCount == 2
+                else
                 {
-                    Console.WriteLine($"Два корня: x₁ = {roots[0]:F6}, x₂ = {roots[1]:F6}");
+                    Console.WriteLine($"Два корня: x₁ = {x1:F6}, x₂ = {x2:F6}");
                 }
             }
             catch (FormatException)

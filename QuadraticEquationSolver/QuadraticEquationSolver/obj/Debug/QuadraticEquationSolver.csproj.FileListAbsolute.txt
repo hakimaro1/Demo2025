@@ -5,3 +5,11 @@ E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticE
 E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
 E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
 E:\training\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.AssemblyReference.cache
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe.config
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+E:\Demo2025\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\training\\QuadraticEquationSolver\\",
+  "WorkspaceRootPath": "E:\\Demo2025\\QuadraticEquationSolver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D167F3-C92B-4B29-B585-F752C909449F}|QuadraticEquationSolver\\QuadraticEquationSolver.csproj|e:\\training\\quadraticequationsolver\\quadraticequationsolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D167F3-C92B-4B29-B585-F752C909449F}|QuadraticEquationSolver\\QuadraticEquationSolver.csproj|e:\\demo2025\\quadraticequationsolver\\quadraticequationsolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D167F3-C92B-4B29-B585-F752C909449F}|QuadraticEquationSolver\\QuadraticEquationSolver.csproj|solutionrelative:quadraticequationsolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\training\\QuadraticEquationSolver\\QuadraticEquationSolver\\Program.cs",
+              "DocumentMoniker": "E:\\Demo2025\\QuadraticEquationSolver\\QuadraticEquationSolver\\Program.cs",
               "RelativeDocumentMoniker": "QuadraticEquationSolver\\Program.cs",
-              "ToolTip": "E:\\training\\QuadraticEquationSolver\\QuadraticEquationSolver\\Program.cs*",
-              "RelativeToolTip": "QuadraticEquationSolver\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Demo2025\\QuadraticEquationSolver\\QuadraticEquationSolver\\Program.cs",
+              "RelativeToolTip": "QuadraticEquationSolver\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T06:09:48.731Z",
               "EditorCaption": ""
