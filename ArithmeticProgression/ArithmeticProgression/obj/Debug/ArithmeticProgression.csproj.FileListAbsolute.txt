@@ -1,0 +1,8 @@
+E:\training\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.exe.config
+E:\training\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.exe
+E:\training\ArithmeticProgression\ArithmeticProgression\bin\Debug\ArithmeticProgression.pdb
+E:\training\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.csproj.AssemblyReference.cache
+E:\training\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.csproj.CoreCompileInputs.cache
+E:\training\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.exe
+E:\training\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.pdb
+E:\training\ArithmeticProgression\ArithmeticProgression\obj\Debug\ArithmeticProgression.exe.config
