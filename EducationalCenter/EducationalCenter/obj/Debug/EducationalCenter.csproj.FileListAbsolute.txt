@@ -1,0 +1,15 @@
+E:\training\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.exe.config
+E:\training\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.exe
+E:\training\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.pdb
+E:\training\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.csproj.AssemblyReference.cache
+E:\training\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.csproj.CoreCompileInputs.cache
+E:\training\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.exe
+E:\training\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.pdb
+E:\Demo2025\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.exe.config
+E:\Demo2025\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.exe
+E:\Demo2025\EducationalCenter\EducationalCenter\bin\Debug\EducationalCenter.pdb
+E:\Demo2025\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.csproj.AssemblyReference.cache
+E:\Demo2025\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.exe.config
+E:\Demo2025\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.csproj.CoreCompileInputs.cache
+E:\Demo2025\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.exe
+E:\Demo2025\EducationalCenter\EducationalCenter\obj\Debug\EducationalCenter.pdb
